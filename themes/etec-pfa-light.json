@@ -1,6 +1,6 @@
 {
   "name": "Etec PFA - Light",
-  "type": "light",
+  "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#009ea9"
+        "foreground": "#008d96"
       }
     },
     {
@@ -1706,7 +1706,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#009ea9"
+        "foreground": "#008d96"
       }
     },
     {
@@ -1751,7 +1751,7 @@
         "punctuation.definition.tag.xi"
       ],
       "settings": {
-        "foreground": "#009ea9"
+        "foreground": "#008d96"
       }
     },
     {
@@ -1790,14 +1790,14 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#009ea9"
+        "foreground": "#008d96"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#009ea9"
+        "foreground": "#008d96"
       }
     },
     {
