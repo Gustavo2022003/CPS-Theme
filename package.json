@@ -8,6 +8,10 @@
     "vscode": "^1.71.0"
   },
   "publisher": "Gustavo2022003",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gustavo2022003/CPS-Theme"
+  },
   "keywords": ["Etec", "CPS", "Centro Paula Souza", "Tema", "Theme"],
   "categories": [
     "Themes"
