@@ -1,0 +1,24 @@
+{
+  "name": "cps-theme",
+  "displayName": "CPS Theme",
+  "description": "Tema inspirado no Centro Paula Souza (não oficial). Feito por Alunos para Alunos!",
+  "version": "0.0.1",
+  "icon": "assets/icon.png",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "publisher": "Gustavo2022003",
+  "keywords": ["Etec", "CPS", "Centro Paula Souza", "Tema", "Theme"],
+  "categories": [
+    "Themes"
+  ],  
+  "contributes": {
+    "themes": [
+      {
+        "label": "CPS Theme Traditional",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CPS Theme Traditional-color-theme.json"
+      }
+    ]
+  }
+}
