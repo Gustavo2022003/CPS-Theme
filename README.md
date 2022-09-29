@@ -15,7 +15,7 @@ Versões do VsCode suportadas: 1.71.0 ou maior
 
 ## Etec Pedro Ferreira Alves Light
 
-Work in progress...
+![ETEC PFA IMG](assets/etec-pfa-img-light.png)
 
 ### Feito e mantido por: [Gustavo2022003](https://github.com/Gustavo2022003)
 # Creators
