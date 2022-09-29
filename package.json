@@ -2,7 +2,7 @@
   "name": "cps-theme",
   "displayName": "CPS Theme",
   "description": "Tema inspirado no Centro Paula Souza (não oficial). Feito por Alunos para Alunos!",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.71.0"
@@ -12,12 +12,17 @@
     "type": "git",
     "url": "https://github.com/Gustavo2022003/CPS-Theme"
   },
-  "keywords": ["Etec", "CPS", "Centro Paula Souza", "Tema", "Theme"],
+  "keywords": ["Etec", "CPS", "Centro Paula Souza", "Tema", "Theme", "Fatec"],
   "categories": [
     "Themes"
   ],  
   "contributes": {
     "themes": [
+      {
+        "label": "Etec Pedro Ferreira Alves",
+        "uiTheme": "vs-dark",
+        "path": "./themes/etec-pfa.json"
+      },
       {
         "label": "CPS Theme Traditional",
         "uiTheme": "vs-dark",
