@@ -2,7 +2,7 @@
   "name": "cps-theme",
   "displayName": "CPS Theme",
   "description": "Tema inspirado no Centro Paula Souza (não oficial). Feito por Alunos para Alunos!",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.71.0"

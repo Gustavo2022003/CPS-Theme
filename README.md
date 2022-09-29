@@ -1,4 +1,4 @@
-<img style="width: 300px;" src="https://raw.githubusercontent.com/Gustavo2022003/CPS-Theme/main/assets/icon.png"></img>
+![CPS Logo](assets/icon250.png)
 # Centro Paula Sousa Theme!
 
 Temas inpirados no Centro Paula Sousa. Por alunos, para alunos!
@@ -14,5 +14,5 @@ Temas inpirados no Centro Paula Sousa. Por alunos, para alunos!
 ### Feito e mantido por: [Gustavo2022003](https://github.com/Gustavo2022003)
 # Creators
 <p>
- <a src="https://github.com/Gustavo2022003"><img style="width: 80px;" src="https://avatars.githubusercontent.com/u/54781049?v=4"></a>
+ <a src="https://github.com/Gustavo2022003"><img style="width: 80px;" src="https://avatars.githubusercontent.com/u/54781049?v=4" alt="ProflePic"></a>
 </p>
