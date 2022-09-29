@@ -1,9 +1,11 @@
 ![CPS Logo](assets/icon250.png)
 # Centro Paula Sousa Theme!
 
-Temas inpirados no Centro Paula Sousa. Por alunos, para alunos!
+Temas inpirados no Centro Paula Sousa. Feito por alunos, para alunos!
 <br>
 [visite no marketplace!](https://marketplace.visualstudio.com/items?itemName=Gustavo2022003.cps-theme)
+<br>
+Versôes do VsCode suportadas: 1.71.0 ou maior
 
 ## CPS Traditional
 ![CPS Traditional IMG](assets/cps-traditional-img.png)
