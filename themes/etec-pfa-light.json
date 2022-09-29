@@ -1,6 +1,6 @@
 {
   "name": "Etec PFA - Light",
-  "type": "dark",
+  "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
