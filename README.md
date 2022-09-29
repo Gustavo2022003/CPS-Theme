@@ -8,8 +8,12 @@ Temas inpirados no Centro Paula Sousa. Por alunos, para alunos!
 ## CPS Traditional
 ![CPS Traditional IMG](assets/cps-traditional-img.png)
 
-## Etec Pedro Ferreira Alves
+## Etec Pedro Ferreira Alves Dark
 ![ETEC PFA IMG](assets/etec-pfa-img.png)
+
+## Etec Pedro Ferreira Alves Light
+
+Work in progress...
 
 ### Feito e mantido por: [Gustavo2022003](https://github.com/Gustavo2022003)
 # Creators
